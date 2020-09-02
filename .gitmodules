@@ -1,0 +1,3 @@
+[submodule "frameworks/django/OPEED"]
+	path = frameworks/django/OPEED
+	url = https://github.com/AmandioF/OPEED.git
