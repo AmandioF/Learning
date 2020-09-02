@@ -1,3 +1,6 @@
 [submodule "frameworks/django/OPEED"]
 	path = frameworks/django/OPEED
 	url = https://github.com/AmandioF/OPEED.git
+[submodule "languages/rust/from-rust-to-gold"]
+	path = languages/rust/from-rust-to-gold
+	url = https://github.com/AmandioF/from-rust-to-gold.git
